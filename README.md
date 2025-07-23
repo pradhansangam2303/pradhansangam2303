@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I’m a **Techno-Functional Banking Consultant** w
 
 - 🌐 LinkedIn: [linkedin.com/in/pradhansangam1](https://linkedin.com/in/pradhansangam1)  
 - 📧 Email: pradhansangam1@gmail.com  
-- 📞 Phone: +91 94749 45106  
+-
 
 ---
 
