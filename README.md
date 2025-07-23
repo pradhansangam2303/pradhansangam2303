@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Sangam Pradhan
 
-Welcome to my GitHub profile! I’m a **Techno-Functional Banking Consultant** with over **12 years** of cross-cultural experience delivering enterprise banking solutions across **North America, South America, Japan, and Asia Pacific**.
+Welcome to my GitHub profile! I’m a **Techno-Functional Banking Consultant** having cross-cultural experience delivering enterprise banking solutions across **North America, South America, Japan, and Asia Pacific**.
 
 ---
 
